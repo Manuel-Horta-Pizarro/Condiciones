@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+body{
+    background-color: rgb(46, 45, 45);
+}
+
+.container {
+    text-align: center;
+
+}
+#miImagen {
+    border: none;
+    width: 500px;
+    height: 500px;
+}

@@ -1,0 +1,22 @@
+body {
+  font-family: cursive;
+  background-color: burlywood;
+}
+.titulo {
+  padding: 5px;
+  text-align: center;
+  font-size: 20px;
+}
+.stikers {
+  text-align: center;
+  justify-content: space-between;
+}
+.stikers img {
+  border-radius: 30%;
+  height: 200px;
+  width: 200px;
+}
+.resultado {
+  padding: 5px;
+  text-align: center;
+}
